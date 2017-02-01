@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P0631_AlertDialogItemsSingle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="items">Items</string>
+    <string name="adapter">Adapter</string>
+    <string name="cursor">Cursor</string>
+    <string name="ok">OK</string>
+
+</resources>

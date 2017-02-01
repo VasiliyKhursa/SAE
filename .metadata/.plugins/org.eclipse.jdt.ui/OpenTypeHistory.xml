@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=P0951_ServiceBackPendingIntent/src&lt;com.example{MyService.java[MyService" modifiers="1" timestamp="1476724162923"/>
+<typeInfo handle="=P0961_ServiceBackBroadcast/src&lt;com.example{MyService.java[MyService" modifiers="1" timestamp="1474112158220"/>
+<typeInfo handle="=P0972_ServiceBindServer/src&lt;ru.startandroid.develop.p0972servicebindserver{MyService.java[MyService" modifiers="1" timestamp="1476819791763"/>
+<typeInfo handle="=P0991_ServiceNotification/src&lt;com.example{MyService.java[MyService" modifiers="1" timestamp="1474112879167"/>
+<typeInfo handle="=P0981_ServiceBindingLocal/src&lt;com.example{MyService.java[MyService" modifiers="1" timestamp="1474112721781"/>
+<typeInfo handle="=P1001_IntentService/src&lt;com.example{MyService.java[MyService" modifiers="1" timestamp="1477128260159"/>
+<typeInfo handle="=P1003_Autoload/src&lt;com.example{MyService.java[MyService" modifiers="1" timestamp="1477129883210"/>
+<typeInfo handle="=P1191_PendingIntent/src&lt;com.example{Receiver.java[Receiver" modifiers="1" timestamp="1477130760467"/>
+</typeInfoHistroy>

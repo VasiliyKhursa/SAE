@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;P1151_MultipleScreen&apos;" deleteContents="true" description="Delete resource &apos;P1151_MultipleScreen&apos;" element1="/P1151_MultipleScreen" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1477131452296"/>&#x0A;<refactoring comment="Delete resource &apos;P1151_MultipleScreen&apos;" deleteContents="false" description="Delete resource &apos;P1151_MultipleScreen&apos;" element1="/P1151_MultipleScreen" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1477131517277"/>
+</session>

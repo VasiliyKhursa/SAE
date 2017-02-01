@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Handler</string>
+    <string name="start">Start Main</string>
+    <string name="start_newT">Start New Thread</string>
+    <string name="start_newTgood">Start New Thread Good</string>
+    <string name="test">Test</string>
+
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;uColorLocation&apos; in &apos;com.example.OpenGLRenderer&apos; to &apos;aColorLocation&apos;&#x0D;&#x0A;- Original project: &apos;P1711_OpenGP_Colors&apos;&#x0D;&#x0A;- Original element: &apos;com.example.OpenGLRenderer.uColorLocation&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.OpenGLRenderer.aColorLocation&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;uColorLocation&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.example{OpenGLRenderer.java[OpenGLRenderer^uColorLocation" name="aColorLocation" references="true" setter="false" stamp="1474399495045" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P1341_CameraFeatures</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="color_effect">Color Effect</string>
+    <string name="flash_mode">Flash Mode</string>
+
+</resources>

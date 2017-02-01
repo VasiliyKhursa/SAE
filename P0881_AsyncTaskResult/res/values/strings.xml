@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AsyncTaskResult</string>
+    <string name="start">Start</string>
+    <string name="get">Result</string>
+    <string name="get2">Result2</string>
+    
+</resources>

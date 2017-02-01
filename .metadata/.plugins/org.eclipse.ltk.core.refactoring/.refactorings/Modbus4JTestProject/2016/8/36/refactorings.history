@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;myapp.java&apos; to &apos;Modbus4JTestProjectSrc/src/appliancemb&apos;&#x0D;&#x0A;- Original project: &apos;Modbus4JTestProject&apos;&#x0D;&#x0A;- Destination element: &apos;Modbus4JTestProjectSrc/src/appliancemb&apos;&#x0D;&#x0A;- Original element: &apos;appliancemb.myapp.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Modbus4JTestProjectSrc/src&lt;appliancemb" element1="/src&lt;appliancemb{myapp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1472558698776" units="1" version="1.0"/>
+</session>

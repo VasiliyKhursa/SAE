@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P1191_PendingIntent</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+
+</resources>

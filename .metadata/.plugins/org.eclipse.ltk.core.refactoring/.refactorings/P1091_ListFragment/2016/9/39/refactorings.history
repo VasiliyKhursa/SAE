@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;P1091_ListFragment/res/layout/fragment1.xml&apos; to &apos;fragment.xml&apos;" description="Rename resource &apos;fragment1.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/layout/fragment1.xml" name="fragment.xml" stamp="1474784854120" updateReferences="true"/>
+</session>

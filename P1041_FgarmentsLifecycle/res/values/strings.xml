@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P1041_FgarmentsLifecycle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="frag1_text">Fragment 1</string>
+    <string name="frag2_text">Fragment 2</string>
+
+</resources>

@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+errorparser.default.ids=org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.GLDErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GmakeErrorParser;com.iar.cdt.errorParser.com.iar.cdt.errorParser.ErrorParser;org.eclipse.cdt.core.VCErrorParser;org.eclipse.cdt.core.CWDLocator;org.eclipse.cdt.core.MakeErrorParser
+indexer/indexAllVersionsSpecificHeaders=
+indexer/updatePolicy=0
+language.settings.providers.workspace.prefs.toggle=true
+macros/workspace=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<macros/>\r\n
+org.eclipse.cdt.core.formatter.indent_switchstatements_compare_to_switch=true
+org.eclipse.cdt.core.formatter.insert_new_line_before_catch_in_try_statement=insert
+org.eclipse.cdt.core.formatter.insert_new_line_before_else_in_if_statement=insert
+org.eclipse.cdt.core.formatter.insert_new_line_before_while_in_do_statement=insert
+org.eclipse.cdt.core.formatter.lineSplit=120
+org.eclipse.cdt.core.taskPriorities=normal,normal,normal

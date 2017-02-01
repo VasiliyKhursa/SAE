@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move source folder &apos;jamod-1.2-SNAPSHOT.jar&apos; to &apos;lib&apos;&#x0D;&#x0A;- Original project: &apos;JavaModbus&apos;&#x0D;&#x0A;- Destination element: &apos;lib&apos;&#x0D;&#x0A;- Original element: &apos;JavaModbus/lib/jamod-1.2-SNAPSHOT.jar&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move source folder" element1="/lib\/jamod-1.2-SNAPSHOT.jar" flags="6" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveRoots" roots="1" stamp="1462777891231" target="/Modbus4jTest/lib" version="1.0"/>
+</session>

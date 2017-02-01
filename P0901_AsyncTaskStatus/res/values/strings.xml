@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AsyncTaskStatus</string>
+    <string name="startPending">Start Pending</string>
+    <string name="startRunning">Start Running</string>
+    <string name="startCancell">Start Cancell</string>    
+   
+    <string name="status">Status</string>
+
+</resources>
